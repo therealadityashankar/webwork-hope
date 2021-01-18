@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 2,
+  "name": "WebWork hope",
+  "version": "1.0",
+
+  "description": "give hope to WebWork",
+
+  "icons": {"48": "icons/border-48.png"},
+
+  "content_scripts": [
+    {
+      "matches": ["*://webwork.asu.edu/webwork2/*"],
+      "js": ["index.js"]
+    }
+  ]
+
+}
