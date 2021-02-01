@@ -15,5 +15,6 @@ Chrome :
 Firefox :
 1. clone this repository (or download this repository as a zip by clicking `code` above, and `Download ZIP`, then extract it in a folder)
 2. goto `about:debugging` (type this link in the URL bar)
+3. click `this firefox` on the right side
 3. `Load Temporary Add-on`
 4. and select `webwork-hope/extension/manifest.json` (from this project)
