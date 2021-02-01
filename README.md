@@ -10,7 +10,7 @@ Chrome :
 2. goto `chrome://extensions/` in chrome (type the link in the URL bar)
 3. toggle developer mode (on the right hand side)
 4. click load unpacked
-5. in the popup file extension, goto the directory for this extension, select `extension` folder inside this) and click select folder
+5. in the popup file extension, goto the directory for this extension, select the `extension` folder inside this) and click select folder
 
 Firefox :
 1. clone this repository (or download this repository as a zip by clicking `code` above, and `Download ZIP`, then extract it in a folder)
